@@ -3,7 +3,7 @@ Amrutha Jayachandradhara -  Data Science M.S. student with 3+ years of machine l
 
 Creating one page resume to manage the changes
 
-<object data="DataScience_Resume_Amrutha_J" type="application/pdf" width="100%" height="800px">
-    <p>Your browser does not support PDFs. <a href="DataScience_Resume_Amrutha_J.pdf">Download the PDF</a>.</p>
+<object data="Datascience_Resume_Amrutha_J.pdf" type="application/pdf" width="100%" height="800px">
+    <p>Your browser does not support PDFs. <a href="Datascience_Resume_Amrutha_J.pdf">Download the PDF</a>.</p>
 </object>
 
