@@ -6,4 +6,5 @@ Creating one page resume to manage the changes
 <object data="Datascience_Resume_Amrutha_J.pdf" type="application/pdf" width="100%" height="800px">
     <p>Your browser does not support PDFs. <a href="Datascience_Resume_Amrutha_J.pdf">Download the PDF</a>.</p>
 </object>
+<img width="614" height="869" alt="image" src="https://github.com/user-attachments/assets/f7770506-8964-493f-ab9f-51bc768196c5" />
 
