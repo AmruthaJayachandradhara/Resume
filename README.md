@@ -3,4 +3,5 @@ Amrutha Jayachandradhara -  Data Science M.S. student with 3+ years of machine l
 
 Creating one page resume to manage the changes
 
-[Datascience_Resume_Amrutha_J.pdf]
+(Datascience_Resume_Amrutha_J.pdf)
+
